@@ -1,0 +1,4 @@
+﻿  ConsoleApplication4.cpp
+D:\source\repos\C++\dz3\ConsoleApplication4\ConsoleApplication4.cpp(94,9): warning C4101: size1: неиспользованная локальная переменная
+D:\source\repos\C++\dz3\ConsoleApplication4\ConsoleApplication4.cpp(95,9): warning C4101: size2: неиспользованная локальная переменная
+  ConsoleApplication4.vcxproj -> D:\source\repos\C++\dz3\ConsoleApplication4\x64\Debug\ConsoleApplication4.exe

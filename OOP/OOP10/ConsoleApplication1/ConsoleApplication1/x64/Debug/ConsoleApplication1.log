@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+D:\source\repos\OOP10\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(4,71): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  ConsoleApplication1.vcxproj -> D:\source\repos\OOP10\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

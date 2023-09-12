@@ -1,0 +1,24 @@
+﻿  ConsoleApplication1.cpp
+D:\source\repos\OOP8\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(50,37): warning C4244: аргумент: преобразование "TB" в "TA", возможна потеря данных
+          with
+          [
+              TB=double
+          ]
+          and
+          [
+              TA=int
+          ]
+D:\source\repos\OOP8\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(50,1): message : во время компиляции функции-члена класс шаблон "C<int,double,char>::C(TB,TB,TC)"
+          with
+          [
+              TB=double,
+              TC=char
+          ]
+D:\source\repos\OOP8\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(72,27): message : выполняется компиляция ссылки на экземпляр шаблон функции "C<int,double,char>::C(TB,TB,TC)"
+          with
+          [
+              TB=double,
+              TC=char
+          ]
+D:\source\repos\OOP8\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(72,28): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "C<int,double,char>"
+  ConsoleApplication1.vcxproj -> D:\source\repos\OOP8\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

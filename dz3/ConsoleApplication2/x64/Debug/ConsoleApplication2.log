@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+D:\source\repos\C++\dz3\ConsoleApplication2\ConsoleApplication2.cpp(3,31): warning C4081: требуется "newline"; обнаружен ";"
+D:\source\repos\C++\dz3\ConsoleApplication2\ConsoleApplication2.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication2.vcxproj -> D:\source\repos\C++\dz3\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe

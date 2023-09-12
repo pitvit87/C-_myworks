@@ -1,0 +1,7 @@
+﻿  Yevtukh-KolomiietsDZ6.cpp
+D:\source\repos\OOP6\Yevtukh-KolomiietsDZ6\Yevtukh-KolomiietsDZ6\Yevtukh-KolomiietsDZ6.cpp(52,59): warning C4305: аргумент: усечение из "double" в "t2"
+          with
+          [
+              t2=float
+          ]
+  Yevtukh-KolomiietsDZ6.vcxproj -> D:\source\repos\OOP6\Yevtukh-KolomiietsDZ6\x64\Debug\Yevtukh-KolomiietsDZ6.exe

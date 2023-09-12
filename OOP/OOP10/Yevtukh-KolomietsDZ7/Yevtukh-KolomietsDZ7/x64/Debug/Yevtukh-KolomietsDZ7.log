@@ -1,0 +1,5 @@
+﻿  Yevtukh-KolomietsDZ7.cpp
+D:\source\repos\OOP10\Yevtukh-KolomietsDZ7\Yevtukh-KolomietsDZ7\Yevtukh-KolomietsDZ7.cpp(10,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\source\repos\OOP10\Yevtukh-KolomietsDZ7\Yevtukh-KolomietsDZ7\Yevtukh-KolomietsDZ7.cpp(11,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\source\repos\OOP10\Yevtukh-KolomietsDZ7\Yevtukh-KolomietsDZ7\Yevtukh-KolomietsDZ7.cpp(20,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Yevtukh-KolomietsDZ7.vcxproj -> D:\source\repos\OOP10\Yevtukh-KolomietsDZ7\x64\Debug\Yevtukh-KolomietsDZ7.exe

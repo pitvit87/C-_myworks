@@ -1,0 +1,6 @@
+﻿  Yevtukh-KolomiietsExam.cpp
+D:\source\repos\OOP12\Yevtukh-KolomiietsExam\Yevtukh-KolomiietsExam\Yevtukh-KolomiietsExam.cpp(6,31): warning C4081: требуется "newline"; обнаружен ";"
+D:\source\repos\OOP12\Yevtukh-KolomiietsExam\Yevtukh-KolomiietsExam\Yevtukh-KolomiietsExam.cpp(50,56): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\source\repos\OOP12\Yevtukh-KolomiietsExam\Yevtukh-KolomiietsExam\Yevtukh-KolomiietsExam.cpp(74,12): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\source\repos\OOP12\Yevtukh-KolomiietsExam\Yevtukh-KolomiietsExam\Yevtukh-KolomiietsExam.cpp(34): warning C4715: RecordBook::PhoneNumber::CheckNumber: значение возвращается не при всех путях выполнения
+  Yevtukh-KolomiietsExam.vcxproj -> D:\source\repos\OOP12\Yevtukh-KolomiietsExam\x64\Debug\Yevtukh-KolomiietsExam.exe

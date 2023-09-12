@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\Vitaliy\source\repos\DynamStuct\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(169,34): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Vitaliy\source\repos\DynamStuct\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(171,32): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  ConsoleApplication2.vcxproj -> C:\Users\Vitaliy\source\repos\DynamStuct\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe

@@ -1,0 +1,3 @@
+﻿  ConsoleApplication3.cpp
+D:\source\repos\OOP8\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(59,6): warning C4101: x: неиспользованная локальная переменная
+  ConsoleApplication3.vcxproj -> D:\source\repos\OOP8\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
